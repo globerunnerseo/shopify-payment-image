@@ -15,6 +15,6 @@
 
 ### To add spacing, we can add this: 
 
-`<div class="grid__item" style="margin-top:10px;">
+<div class="grid__item" style="margin-top:10px;">
    <img src="{{ 'payment.png' | asset_url }}" alt="Payment" />
-</div>`
+</div>
