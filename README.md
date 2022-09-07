@@ -1,4 +1,4 @@
-# How to copy payment image from footer to product single page in shopify.
+## How to copy payment image from footer to product single page in shopify.
 
 **First copy this code from footer.liquid file**
 
